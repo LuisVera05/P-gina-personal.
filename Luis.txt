@@ -1,4 +1,4 @@
-<!DOCTYPE html>
+# Pagina-personal
 <html lang="en">
 <head>
     <meta charset="UTF-8">
@@ -27,15 +27,15 @@
                     <p>Edad: 18 años</p>		
                     <p>Fecha de nacimiento: 10 de Enero del 2001</p>
                     <p>País de origen: Ecuador</p> 
-                    <p>Github: LuisVera05 </p>   
+                    <p>Github: LuisVera05</p>   
                     <p>StackOverflow: Luis Alberto Vera García</p>
                 </div>
             </div>
             <h1>Competencias</h1> 				
             <div class="split">
                 <h2>Conocimientos</h2>			
-                <div class="split">							                   				
-                    <p>Php: c++</p><br>			
+                <div class="split">							
+                    <p> C++: Amateur</p>	                   		
                 </div>
                 <div class="split">
                     <h3>Frameworks</h3>
@@ -43,12 +43,12 @@
                     <p>Bootstrap: Amateur</p><br>
                 </div>
                 <h2>Idiomas</h2>
-                <p>Ingles: Intermedio</p>              
+                <p>Ingles: Intermedio</p>               
             </div>
         </div>
         <h1>Comentario Personal</h1> 				
             <div class="split">
-                <p>Lo epuesto en esta pagina es muy basico debido a que no cuento con los conocimientos necesarios para la elavoración de almo as elaborado.</p>
+                <p>Lo expuesto es algo muy básico debido a que no poseo los conocimientos sucifientes para la elavoración de algo más complejo.</p>
                 
         </div>
 
