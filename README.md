@@ -1,4 +1,5 @@
-# P-gina-personal.# Pagina-personal
+
+# Pagina-personal
 <html lang="en">
 <head>
     <meta charset="UTF-8">
@@ -35,9 +36,7 @@
             <div class="split">
                 <h2>Conocimientos</h2>			
                 <div class="split">							
-                    <p>Html y Css: Amateur</p>	
-                    <p>Javascript: Amateur</p>				
-                    <p>Php: Amateur</p><br>			
+                    <p> C++: Amateur</p>	                   		
                 </div>
                 <div class="split">
                     <h3>Frameworks</h3>
@@ -50,7 +49,7 @@
         </div>
         <h1>Comentario Personal</h1> 				
             <div class="split">
-                <p>Lo epuesto es algo muy básico debido a que no poseo los conocimientos sucifientes para la elavoración de algo más complejo.</p>
+                <p>Lo expuesto es algo muy básico debido a que no poseo los conocimientos sucifientes para la elavoración de algo más complejo.</p>
                 
         </div>
 
